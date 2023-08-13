@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tela de Login</string>
+    <string name="title">Dados de Login</string>
+    <string name="name">Digite Nome</string>
+    <string name="password">Senha</string>
+    <string name="checkboxText">Aceito os termos</string>
+    <string name="button">Entrar</string>
+</resources>
